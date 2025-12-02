@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+
+
+.font {
+    font-family: 'acumin-pro, "Acumin Pro", "Helvetica Neue", Helvetica, Arial, sans-serif';
+}
+
+.box {
+    color: #C5B7A5;
+}
+
+.box1 {
+    color: #594F3E;
+}
+
+
+
+
+
+/* section2  */
+.title {
+    font-size: 38px;
+    font-weight: 400;
+    font-family: "Playfair", serif;
+}
